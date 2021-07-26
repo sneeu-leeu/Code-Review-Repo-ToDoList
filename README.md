@@ -2,6 +2,8 @@
 
 # To-Do List 
 
+This is purely a repo for Anderson to review my best practices
+
 > This is an interactive tool to update and remind yourself of what you need to do.
 
 ![screenshot](./img/screen_shot.png)
